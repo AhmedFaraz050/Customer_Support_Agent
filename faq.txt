@@ -1,0 +1,108 @@
+Q: How do I return a product?
+Q: I want to send back my order.
+A: You can return a product within 30 days using our online return form. Make sure the product is in its original condition.
+
+Q: What are the shipping charges?
+Q: How much does shipping cost?
+A: Standard shipping is free for orders over $50. For orders under $50, shipping costs $5.
+
+Q: How long does shipping take?
+Q: When will my order arrive?
+A: Standard shipping usually takes 3-5 business days. Express shipping takes 1-2 business days.
+
+Q: Can I track my order?
+Q: How do I check my order status?
+A: Yes, after placing your order, you will receive a tracking number via email. You can track your order on our website.
+
+Q: Do you ship internationally?
+Q: Can I get my order delivered abroad?
+A: Yes, we ship to selected countries. International shipping costs vary depending on the destination.
+
+Q: How can I cancel my order?
+Q: I want to cancel my purchase.
+A: You can cancel your order within 2 hours of placing it by visiting your account page or contacting customer support.
+
+Q: What payment methods do you accept?
+Q: Can I pay with PayPal?
+A: We accept credit cards, debit cards, PayPal, and Apple Pay.
+
+Q: My product arrived damaged. What should I do?
+Q: The item I received is broken.
+A: Please contact customer support immediately with photos of the damaged product. We will arrange a replacement or refund.
+
+Q: How do I change my account password?
+Q: I forgot my password. How can I reset it?
+A: Go to your account settings and select 'Change Password'. Follow the instructions to set a new password.
+
+Q: Can I get a gift receipt for my order?
+Q: I want a receipt without prices for gifting.
+A: Yes, you can request a gift receipt when placing your order or from your account order history.
+
+Q: How do I apply a discount code?
+Q: I have a promo code. How do I use it?
+A: Enter your discount code at checkout in the 'Promo Code' field. The discount will be applied automatically.
+
+Q: Can I change my shipping address after ordering?
+Q: I made a mistake in my delivery address. Can I update it?
+A: You can update the shipping address within 1 hour of placing your order by visiting your account page or contacting support.
+
+Q: Are there any loyalty or reward programs?
+Q: How can I earn points for my purchases?
+A: Yes, join our loyalty program to earn points on every purchase. Points can be redeemed for discounts on future orders.
+
+Q: Do you offer gift wrapping?
+Q: Can my order be wrapped as a gift?
+A: Yes, gift wrapping is available at checkout for a small fee.
+
+Q: How do I contact customer support?
+Q: I need help with my order. How do I reach support?
+A: You can contact us via email, live chat, or phone. Support is available Monday to Friday, 9 AM – 6 PM.
+
+Q: Can I change the items in my order after placing it?
+Q: I want to add or remove products from my order.
+A: Order modifications are possible within 1 hour of placing your order. Contact customer support immediately.
+
+Q: How do I unsubscribe from marketing emails?
+Q: I don’t want promotional emails anymore.
+A: Click the 'Unsubscribe' link at the bottom of any marketing email or update your preferences in your account settings.
+
+Q: What should I do if I received the wrong product?
+Q: I got a product I didn’t order.
+A: Contact customer support with a photo of the product. We will arrange a replacement or refund.
+
+Q: Do you offer bulk order discounts?
+Q: I want to buy in large quantities. Are there discounts?
+A: Yes, contact sales support for bulk orders. Discounts depend on the quantity purchased.
+
+Q: How secure is my payment information?
+Q: Is it safe to pay online?
+A: All payments are processed through secure, encrypted channels. We never store your payment information.
+
+Q: Can I save items in a wishlist?
+Q: How do I bookmark products for later?
+A: Yes, add items to your wishlist by clicking the heart icon on the product page. You can access your wishlist anytime.
+
+Q: How do I change my account email?
+Q: I want to update my email address.
+A: Go to account settings and select 'Change Email'. Follow the instructions to update your email.
+
+Q: Do you offer installation services?
+Q: Can someone help me set up my product at home?
+A: For certain products, installation services are available. Check the product page for availability and fees.
+
+Q: Can I leave a product review?
+Q: How do I submit feedback for a product?
+A: Yes, after purchasing, click 'Write a Review' on the product page and submit your feedback.
+
+Q: What is your return policy for sale items?
+Q: Can I return discounted products?
+A: Sale items can be returned within 30 days, but some restrictions may apply. Check our return policy page for details.
+
+Q: How do I know if a product is in stock?
+Q: I want to buy an item. How do I check availability?
+A: Product availability is displayed on the product page. You can also sign up for back-in-stock notifications.
+
+Q: Do you provide invoices for business orders?
+Q: I need a formal invoice for my company.
+A: Yes, invoices are generated automatically for business orders. You can download them from your account.
+
