@@ -14,7 +14,7 @@ from langchain.prompts import PromptTemplate
 load_dotenv()
 os.environ["GOOGLE_API_KEY"] = os.getenv("GEMINI_API_KEY")
 
-llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash-001", temperature=0)
+llm = ChatGoogleGenerativeAI(model="gemini-3.5-flash-lite", temperature=0.5)
 
 # ------------------------
 # Load FAQ data (multi-Q fix)
